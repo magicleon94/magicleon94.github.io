@@ -5,3 +5,7 @@ My leading interest is in everything about the interaction between man and machi
 I enjoy every aspect of technology, from using it to creating it. I love to code for duty and for fun in my spare time.
 I'm very passionate with everything concerning games development, robotics, Android programming and embedded programming with Arduino and/or Raspberry Pi. <br>
 My dream is to work in the gaming/entertainment industry, focusing my work on what is needed to provide realistic and life-integrated experiences.
+### Contacts
+Mail: antonellogalipo@gmail.com
+Twitter: @magicleon94
+Linkedin: antonello-galipò
