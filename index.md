@@ -7,6 +7,6 @@ I'm very passionate with everything concerning games development, robotics, Andr
 My dream is to work in the gaming/entertainment industry, focusing my work on what is needed to provide realistic and life-integrated experiences.
 ### Contacts
 Mail: antonellogalipo@gmail.com<br>
-Twitter: @magicleon94<br>
-Linkedin: antonello-galipò<br>
+Twitter: [@magicleon94](https://twitter.com/magicleon94)<br>
+Linkedin: [antonello-galipò](www.linkedin.com/in/antonello-galipò)<br>
 ### Under construction
