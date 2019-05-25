@@ -1,4 +1,5 @@
-# Page under contstruction
+# Page under construction
+Meanwhile, you can find my contacts below :D
 ### Contacts
 Mail: antonello.galipo@gmail.com<br>
 Twitter: [@magicleon94](https://twitter.com/magicleon94)<br>
