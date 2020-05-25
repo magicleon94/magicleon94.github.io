@@ -12,10 +12,14 @@ fields:
   label: toggle
 - name: choices
   type: select
-  default: []
+  default: ''
   config:
     required: false
-    options: []
+    options:
+    - a
+    - b
+    - c
+    - d
     source:
       type: simple
       section: 
