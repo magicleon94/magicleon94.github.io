@@ -7,9 +7,6 @@ fields:
   config:
     required: false
   label: Title
-- name: toggle
-  type: boolean
-  label: toggle
 - name: choices
   type: select
   default: ''
@@ -26,5 +23,11 @@ fields:
       file: 
       path: 
   label: choices
+- name: toggle
+  type: boolean
+  label: toggle
+  showOnly:
+    field: choices
+    value: a
 pages:
 - _posts/simple-title.md
