@@ -22,3 +22,5 @@ fields:
       file: 
       path: 
   label: choices
+pages:
+- _posts/simple-title.md
