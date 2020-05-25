@@ -29,5 +29,3 @@ fields:
   showOnly:
     field: choices
     value: a
-pages:
-- _posts/2020-05-25-simple-title.md
