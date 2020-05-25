@@ -7,3 +7,18 @@ fields:
   config:
     required: false
   label: Title
+- name: toggle
+  type: boolean
+  label: toggle
+- name: choices
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: choices
