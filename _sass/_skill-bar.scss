@@ -91,15 +91,21 @@
 
 .bar.value-0::before{
   width: 0;
-  color: #000;
+  @media only screen and (min-width: $cut) {
+    color: #000;
+    }
 }
 .bar.value-10::before{
   width: calc(10%);
-  color: #000;
+  @media only screen and (min-width: $cut) {
+    color: #000;
+    }
 }
 .bar.value-20::before{
   width: calc(20%);
-  color: #000;
+  @media only screen and (min-width: $cut) {
+    color: #000;
+    }
 }
 .bar.value-0::before{
   width: calc(30%);
