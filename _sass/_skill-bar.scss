@@ -103,9 +103,6 @@
 }
 .bar.value-20::before{
   width: calc(20%);
-  @media only screen and (min-width: $cut) {
-    color: #000;
-    }
 }
 .bar.value-0::before{
   width: calc(30%);
