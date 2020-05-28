@@ -1,0 +1,127 @@
+.skills-container{
+  width: 75%;
+  margin: 0 auto;
+  text-align: start;
+}
+@keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-webkit-keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-moz-keyframes load{
+  from {
+    width: 0%
+  }
+}
+@-o-keyframes load{
+  from {
+    width: 0%
+  }
+}
+
+.bar{
+  background-color: #eee;
+  padding: 2px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: black;
+  font-weight: bold;
+  // text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+}
+.bar::before{
+  content:  attr(data-skill);
+  background-color: red;
+  display: inline-block;
+  padding: 5px 0 5px 10px;
+  border-radius: inherit;
+  animation: load 2s 0s;
+  -webkit-animation: load 2s 0s;
+  -moz-animation: load 2s 0s;
+  -o-animation: load 2s 0s;
+}
+
+.bar.android-green::before{
+  background-color: #3DDC84;
+  color: #000;
+}
+
+.bar.dart-blue::before{
+  background-color:#00A4E4;
+  color: #fff;
+}
+.bar.flutter-blue::before{
+  background-color:#0081C6;
+  color: #fff;
+}
+.bar.teal::before{
+  background-color:teal;
+  color: #fff;
+}
+
+.bar.max-blue-green::before{
+  background-color: #43bccd;
+  color: #fff;
+}
+
+.bar.rebecca-purple::before{
+  background-color: #662e9b;
+  color: #fff;
+}
+
+.bar.imperial-red::before{
+  background-color: #EA3546;
+  color: #fff;
+}
+
+.bar.orange-red::before{
+  background-color: #F86624;
+  color: #fff;
+}
+
+.bar.jonquil::before{
+  background-color: #F9C80E;
+  color: #000;
+}
+
+.bar.value-0::before{
+  width: 0;
+  color: #000;
+}
+.bar.value-10::before{
+  width: calc(10%);
+  color: #000;
+}
+.bar.value-20::before{
+  width: calc(20%);
+  color: #000;
+}
+.bar.value-0::before{
+  width: calc(30%);
+}
+.bar.value-40::before{
+  width: calc(40%);
+}
+.bar.value-50::before{
+  width: calc(50%);
+}
+.bar.value-60::before{
+  width: calc(60%);
+}
+.bar.value-70::before{
+  width: calc(70%);
+}
+.bar.value-80::before{
+  width: calc(80%);
+}
+.bar.value-90::before{
+  width: calc(90%);
+}
+.bar.value-100::before{
+  width: calc(100%);
+}
