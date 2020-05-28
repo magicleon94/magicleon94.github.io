@@ -1,8 +1,7 @@
-.experiences{
-.experience{
+.work{
     text-align: start;
     font-size: 60px;
-    
+
     h1,h2,h3{
       margin-top: 0rem;
       padding-top: 0rem;
@@ -27,5 +26,22 @@
       flex-wrap: nowrap;
       font-size: 75px;
     }
-  }
+
+    .content{
+        .app-badges{
+            a{
+                text-decoration: none;
+            }
+            text-align: center;
+        }
+    }
+
+    
+}
+
+.app-badge{
+    display:inline-block;
+    overflow:hidden;
+    height: 40px;
+    width: 135px;
 }
