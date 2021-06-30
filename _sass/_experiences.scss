@@ -28,4 +28,18 @@
       font-size: 75px;
     }
   }
+    
+    .app-badges{
+            a{
+                text-decoration: none;
+            }
+            text-align: center;
+        }
+}
+
+.app-badge{
+    display:inline-block;
+    overflow:hidden;
+    height: 40px;
+    width: 135px;
 }
