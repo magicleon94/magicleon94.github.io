@@ -7,7 +7,7 @@ const Experience = () => {
     <section id="experience" className="experience-section">
       <div className="experience-container">
         <div className="timeline">
-          
+
           <div className="timeline-item glass-panel">
             <div className="timeline-dot"></div>
             <div className="timeline-content">
@@ -28,7 +28,8 @@ const Experience = () => {
                 <span>TypeScript</span>
                 <span>React</span>
                 <span>Node.js</span>
-                <span>LLMs / OpenAI</span>
+                <span>LLMs</span>
+                <span>Prompt Engineering</span>
                 <span>Python</span>
               </div>
             </div>
@@ -46,7 +47,7 @@ const Experience = () => {
               <div className="tech-stack">
                 <span>Flutter</span>
                 <span>Dart</span>
-                <span>Bluetooth</span>
+                <span>Bluetooth BLE</span>
                 <span>Mobile Development</span>
               </div>
             </div>
@@ -81,7 +82,7 @@ const Experience = () => {
               <div className="tech-stack">
                 <span>Android</span>
                 <span>Java</span>
-                <span>Full Stack</span>
+                <span>MVC.NET 5</span>
               </div>
             </div>
           </div>
